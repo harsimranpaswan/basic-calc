@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="calculator">Simple Calculator</string>
+    <string name="hearts">Hearts</string>
+    <string name="iron_man">Iron Man</string>
+</resources>
